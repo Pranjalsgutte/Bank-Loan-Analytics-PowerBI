@@ -97,17 +97,6 @@ The dashboard helps users understand:
 - Loan status distribution
 - Interest rate trends
 
-📷 Dashboard Preview
-
-![Bank Loan Dashboard](dashboard/dashboard-preview.png)
-
-🚀 How to Use
-
-1. Download the `.pbix` file.
-2. Open it using Microsoft Power BI Desktop.
-3. Refresh the data if required.
-4. Use the filters and slicers to explore the dashboard.
-
 👩‍💻 Author
 
 Pranjal Gutte
