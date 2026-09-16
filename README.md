@@ -39,6 +39,8 @@ The dataset contains information related to:
 📈 Dashboard Features
 
 Summary Dashboard
+![Bank Loan Dashboard](./Summary%20Dashboard.png)
+
 
 The Summary page includes:
 
@@ -53,6 +55,7 @@ The Summary page includes:
 - Home Ownership Analysis
 
 Overview Dashboard
+![Bank Loan Dashboard](./Overview%20Dashboard.png)
 
 The Overview page includes:
 
